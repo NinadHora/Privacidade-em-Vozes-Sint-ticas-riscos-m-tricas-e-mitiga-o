@@ -10,22 +10,6 @@ Foco prático: **detectar áudio fake/real**, medir **riscos de privacidade** (m
 
 ---
 
-## Sumário
-- [🎯 Objetivos de aprendizagem](#-objetivos-de-aprendizagem)
-- [🧰 Pré-requisitos](#-pré-requisitos)
-- [🚀 Como executar](#-como-executar)
-- [🔬 Pipeline e notebooks](#-pipeline-e-notebooks)
-- [📈 Métricas e privacidade](#-métricas-e-privacidade)
-- [🧪 Critérios de publicação (go/no-go)](#-critérios-de-publicação-go-no-go)
-- [🗂️ Estrutura do repositório](#️-estrutura-do-repositório)
-- [📚 Dados e licenças](#-dados-e-licenças)
-- [🛡️ Ética, LGPD e governança](#️-ética-lgpd-e-governança)
-- [🛠️ Solução de problemas](#️-solução-de-problemas)
-- [📝 Citação](#-citação)
-- [📄 Licença](#-licença)
-
----
-
 ## 🎯 Objetivos de aprendizagem
 - Carregar e inspecionar o dataset **[`Shahzaib-Arshad/audio-fake-real-dataset`](https://huggingface.co/datasets/Shahzaib-Arshad/audio-fake-real-dataset)**.
 - Treinar baselines:
